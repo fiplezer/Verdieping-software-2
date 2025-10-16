@@ -1,0 +1,5 @@
+BPI_interact (message) niet te zien
+fix: terug gaan in de video en die snap weer te volgen.
+
+gemaakte pick up script werkt niet
+fix:
