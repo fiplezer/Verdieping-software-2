@@ -3118,3 +3118,143 @@ Script Stack (0 frames) :
 [2025.11.24-20.46.28:250][178]LogUdpMessaging: Display: Added local interface '192.168.1.8' to multicast group '230.0.0.1:6666'
 [2025.11.24-20.46.28:255][178]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
 [2025.11.24-20.46.28:404][179]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.11.24-20.46.30:265][184]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63209'.
+[2025.11.24-20.46.30:269][184]LogUdpMessaging: Display: Added local interface '192.168.1.8' to multicast group '230.0.0.1:6666'
+[2025.11.24-20.46.30:276][184]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.11.24-20.46.30:404][185]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.11.24-20.46.32:286][190]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65436'.
+[2025.11.24-20.46.32:290][190]LogUdpMessaging: Display: Added local interface '192.168.1.8' to multicast group '230.0.0.1:6666'
+[2025.11.24-20.46.32:295][190]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.11.24-20.46.32:405][191]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.11.24-20.46.34:203][196]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58847'.
+[2025.11.24-20.46.34:206][196]LogUdpMessaging: Display: Added local interface '192.168.1.8' to multicast group '230.0.0.1:6666'
+[2025.11.24-20.46.34:212][196]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.11.24-20.46.34:406][197]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.11.24-20.46.36:225][202]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58848'.
+[2025.11.24-20.46.36:228][202]LogUdpMessaging: Display: Added local interface '192.168.1.8' to multicast group '230.0.0.1:6666'
+[2025.11.24-20.46.36:233][202]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.11.24-20.46.36:406][203]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.11.24-20.46.38:344][222]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53564'.
+[2025.11.24-20.46.38:347][222]LogUdpMessaging: Display: Added local interface '192.168.1.8' to multicast group '230.0.0.1:6666'
+[2025.11.24-20.46.38:352][222]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.11.24-20.46.38:356][223]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.11.24-20.46.40:360][243]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58570'.
+[2025.11.24-20.46.40:363][243]LogUdpMessaging: Display: Added local interface '192.168.1.8' to multicast group '230.0.0.1:6666'
+[2025.11.24-20.46.40:370][243]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.11.24-20.46.40:376][244]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.11.24-20.46.41:109][248]LogUObjectHash: Compacting FUObjectHashTables data took  12.25ms
+[2025.11.24-20.46.41:282][248]LogStall: Shutdown...
+[2025.11.24-20.46.41:282][248]LogStall: Shutdown complete.
+[2025.11.24-20.46.41:535][248]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.41:552][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.41:913][248]LogSlate: Window 'KeuzeDeelProjectBP - Unreal Editor' being destroyed
+[2025.11.24-20.46.44:053][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.24-20.46.44:089][248]Cmd: QUIT_EDITOR
+[2025.11.24-20.46.44:091][248]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.24-20.46.44:116][249]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.24-20.46.44:126][249]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.24-20.46.44:127][249]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.24-20.46.44:167][249]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:171][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:172][249]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.24-20.46.44:266][249]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.24-20.46.44:276][249]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.24-20.46.44:295][249]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.24-20.46.44:439][249]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:439][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:439][249]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:439][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:442][249]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:442][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:447][249]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:447][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:451][249]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:451][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:454][249]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:454][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:456][249]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:456][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:461][249]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:461][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:462][249]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:462][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:465][249]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:465][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:468][249]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:468][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:470][249]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:470][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:474][249]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:474][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:486][249]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:486][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:489][249]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:489][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:493][249]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:493][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:496][249]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:496][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:499][249]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:499][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:501][249]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:501][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:504][249]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:504][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:507][249]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:509][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:512][249]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:512][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:514][249]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:514][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:520][249]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:520][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:524][249]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.11.24-20.46.44:524][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.24-20.46.44:550][249]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.24-20.46.44:552][249]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.24-20.46.44:573][249]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.24-20.46.44:626][249]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.24-20.46.44:626][249]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.24-20.46.44:627][249]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2025.11.24-20.46.44:631][249]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.24-20.46.44:639][249]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.24-20.46.44:641][249]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.24-20.46.44:657][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.24-20.46.44:659][249]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.24-20.46.44:668][249]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.11.24-20.46.44:686][249]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.24-20.46.44:690][249]LogExit: Preparing to exit.
+[2025.11.24-20.46.44:904][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.11.24-20.46.44:911][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:912][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:917][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.44:920][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.24-20.46.45:474][249]LogEditorDataStorage: Deinitializing
+[2025.11.24-20.46.46:429][249]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.24-20.46.46:685][249]LogExit: Editor shut down
+[2025.11.24-20.46.46:720][249]LogExit: Transaction tracking system shut down
+[2025.11.24-20.46.48:612][249]LogExit: Object subsystem successfully closed.
+[2025.11.24-20.46.48:692][249]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.24-20.46.49:531][249]LogMemoryProfiler: Shutdown
+[2025.11.24-20.46.49:532][249]LogNetworkingProfiler: Shutdown
+[2025.11.24-20.46.49:532][249]LoadingProfiler: Shutdown
+[2025.11.24-20.46.49:533][249]LogTimingProfiler: Shutdown
+[2025.11.24-20.46.49:547][249]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.24-20.46.49:547][249]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
