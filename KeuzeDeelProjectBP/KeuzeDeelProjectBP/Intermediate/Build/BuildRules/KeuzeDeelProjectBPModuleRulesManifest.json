@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Bureaublad\\Verdieping-software-2\\KeuzeDeelProjectBP\\KeuzeDeelProjectBP\\Source\\KeuzeDeelProjectBP\\KeuzeDeelProjectBP.Build.cs",
+		"C:\\Bureaublad\\Verdieping-software-2\\KeuzeDeelProjectBP\\KeuzeDeelProjectBP\\Source\\KeuzeDeelProjectBP.Target.cs",
+		"C:\\Bureaublad\\Verdieping-software-2\\KeuzeDeelProjectBP\\KeuzeDeelProjectBP\\Source\\KeuzeDeelProjectBPEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
