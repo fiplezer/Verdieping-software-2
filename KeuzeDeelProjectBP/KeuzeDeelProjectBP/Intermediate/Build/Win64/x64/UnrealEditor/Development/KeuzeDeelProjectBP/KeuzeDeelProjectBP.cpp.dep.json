@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\bureaublad\\verdieping-software-2\\keuzedeelprojectbp\\keuzedeelprojectbp\\source\\keuzedeelprojectbp\\keuzedeelprojectbp.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\bureaublad\\verdieping-software-2\\keuzedeelprojectbp\\keuzedeelprojectbp\\intermediate\\build\\win64\\x64\\keuzedeelprojectbpeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\bureaublad\\verdieping-software-2\\keuzedeelprojectbp\\keuzedeelprojectbp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\keuzedeelprojectbp\\definitions.keuzedeelprojectbp.h",
+            "c:\\bureaublad\\verdieping-software-2\\keuzedeelprojectbp\\keuzedeelprojectbp\\source\\keuzedeelprojectbp\\keuzedeelprojectbp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

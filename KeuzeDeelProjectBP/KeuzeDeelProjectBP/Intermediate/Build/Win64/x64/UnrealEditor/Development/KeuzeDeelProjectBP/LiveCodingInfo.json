@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.KeuzeDeelProjectBP.gen.cpp.obj": [
+			"FPSProjectile.gen.cpp.obj",
+			"KeuzeDeelProjectBP.init.gen.cpp.obj"
+		]
+	}
+}

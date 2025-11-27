@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "KeuzeDeelProjectBP",
+			"Path": "..\\Source\\KeuzeDeelProjectBP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KeuzeDeelProjectBPEditor",
+			"Path": "..\\Source\\KeuzeDeelProjectBPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

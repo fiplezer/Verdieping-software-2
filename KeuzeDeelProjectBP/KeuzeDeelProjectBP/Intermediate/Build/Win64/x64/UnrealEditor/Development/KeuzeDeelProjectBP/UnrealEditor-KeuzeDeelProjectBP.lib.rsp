@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-KeuzeDeelProjectBP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Bureaublad/Verdieping-software-2/KeuzeDeelProjectBP/KeuzeDeelProjectBP/Intermediate/Build/Win64/x64/KeuzeDeelProjectBPEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:/Bureaublad/Verdieping-software-2/KeuzeDeelProjectBP/KeuzeDeelProjectBP/Intermediate/Build/Win64/x64/UnrealEditor/Development/KeuzeDeelProjectBP/Module.KeuzeDeelProjectBP.gen.cpp.obj"
+"C:/Bureaublad/Verdieping-software-2/KeuzeDeelProjectBP/KeuzeDeelProjectBP/Intermediate/Build/Win64/x64/UnrealEditor/Development/KeuzeDeelProjectBP/FPSProjectile.cpp.obj"
+"C:/Bureaublad/Verdieping-software-2/KeuzeDeelProjectBP/KeuzeDeelProjectBP/Intermediate/Build/Win64/x64/UnrealEditor/Development/KeuzeDeelProjectBP/KeuzeDeelProjectBP.cpp.obj"
+"C:/Bureaublad/Verdieping-software-2/KeuzeDeelProjectBP/KeuzeDeelProjectBP/Intermediate/Build/Win64/x64/UnrealEditor/Development/KeuzeDeelProjectBP/PerModuleInline.gen.cpp.obj"
+"C:/Bureaublad/Verdieping-software-2/KeuzeDeelProjectBP/KeuzeDeelProjectBP/Intermediate/Build/Win64/x64/UnrealEditor/Development/KeuzeDeelProjectBP/Default.rc2.res"
+/OUT:"C:/Bureaublad/Verdieping-software-2/KeuzeDeelProjectBP/KeuzeDeelProjectBP/Intermediate/Build/Win64/x64/UnrealEditor/Development/KeuzeDeelProjectBP/UnrealEditor-KeuzeDeelProjectBP.lib"
