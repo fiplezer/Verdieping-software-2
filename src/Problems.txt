@@ -1,0 +1,11 @@
+BPI_interact (message) niet te zien
+fix: terug gaan in de video en die stap weer te volgen.
+
+gemaakte pick up script werkt niet, nieuwe pick-up script tutorial werkt ook niet
+fix: zelfgemaakte knop geswitched naar de standaard knoppen.
+
+button werk niet samen met child
+child weg gehaald en met transform de button in het correcte gebied laten bewegen
+
+BPI_TimeInfo (message) niet te zien
+een andere variable het laten maken en daarna connecten met de juiste variable

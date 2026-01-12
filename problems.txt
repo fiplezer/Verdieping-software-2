@@ -1,5 +1,0 @@
-BPI_interact (message) niet te zien
-fix: terug gaan in de video en die stap weer te volgen.
-
-gemaakte pick up script werkt niet, nieuwe pick-up script tutorial werkt ook niet
-fix: zelfgemaakte knop geswitched naar de standaard knoppen.
