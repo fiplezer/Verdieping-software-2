@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class AFPSProjectile ***********************************************************
 KEUZEDEELPROJECTBP_API UClass* Z_Construct_UClass_AFPSProjectile_NoRegister();
 
-#define FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAFPSProjectile(); \
 	friend struct Z_Construct_UClass_AFPSProjectile_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(AFPSProjectile)
 
 
-#define FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_14_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AFPSProjectile(AFPSProjectile&&) = delete; \
 	AFPSProjectile(const AFPSProjectile&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~AFPSProjectile();
 
 
-#define FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_9_PROLOG
-#define FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_12_GENERATED_BODY \
+#define FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_11_PROLOG
+#define FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_14_INCLASS_NO_PURE_DECLS \
+	FID_Bureaublad_Verdieping_software_2_KeuzeDeelProjectBP_KeuzeDeelProjectBP_Source_KeuzeDeelProjectBP_FPSProjectile_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
